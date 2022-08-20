@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/* LEETCODE -- 344 -- Reverse String
+/* LEETCODE -- 344 -- Reverse String by Federico Moroz
+ Contact = fedegfs@gmail.com
  Write a function that reverses a string. The input string is given as an array of characters s.
  You must do this by modifying the input array in-place with O(1) extra memory.
 

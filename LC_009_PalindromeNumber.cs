@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/* LEETCODE -- 009 -- Palindrome Number
+/* LEETCODE -- 009 -- Palindrome Number by Federico Moroz
+Contact = fedegfs@gmail.com
  
  Given an integer x, return true if x is palindrome integer.
  An integer is a palindrome when it reads the same backward as forward.
