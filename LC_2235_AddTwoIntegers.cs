@@ -16,9 +16,9 @@ using UnityEngine;
  */
 public class LC_2235_AddTwoIntegrer : MonoBehaviour
 {
-    public int Sum(int num1, int num2)                          //The method receives 2 integrers and returns another integrer
+    public int Sum(int num1, int num2)                          //The method receives 2 integers and returns another integrer
     {
-        int result = num1 += num2;                              //A new integrer is created, and its value is the sum of both ints received
+        int result = num1 += num2;                              //A new integer is created, and its value is the sum of both ints received
         return result;
 
     }
