@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 /* LEETCODE -- 009 -- Palindrome Number by Federico Moroz
 Contact = fedegfs@gmail.com
  
