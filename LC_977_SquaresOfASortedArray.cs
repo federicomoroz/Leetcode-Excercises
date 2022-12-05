@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 /*LEETCODE -- 977 -- Squares of a Sorted Array by Federico Moroz
 Contact = fedegfs@gmail.com
 Given an integer array nums sorted in non-decreasing order, return an array of the squares 

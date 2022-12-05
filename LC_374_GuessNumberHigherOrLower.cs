@@ -1,6 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 /*  LEETCODE -- 374 -- Guess Number Higher or Lower by Federico Moroz
     Contact = fedegfs@gmail.com
     https://leetcode.com/problems/guess-number-higher-or-lower/

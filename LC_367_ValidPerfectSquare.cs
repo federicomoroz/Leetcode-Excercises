@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 /* LEETCODE -- 367 -- Valid Perfect Square by Federico Moroz
 Contact = fedegfs@gmail.com
 Given a positive integer num, write a function which returns True if num is a perfect square else False.

@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 /* LEETCODE -- 852 -- Peak Index in a Mountain Array by Federico Moroz
 An array arr[] is a mountain if the following properties hold:
 arr.length >= 3

@@ -1,6 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 /*  LEETCODE -- 704 -- Binary Search by Federico Moroz
     Contact = fedegfs@gmail.com
     https://leetcode.com/problems/binary-search/

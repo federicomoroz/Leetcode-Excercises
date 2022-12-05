@@ -1,6 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 /*  LEETCODE -- 035 -- Search Insert Position by Federico Moroz
     Contact = fedegfs@gmail.com
     https://leetcode.com/problems/search-insert-position/

@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 /* LEETCODE -- 344 -- Reverse String by Federico Moroz
  Contact = fedegfs@gmail.com
  Write a function that reverses a string. The input string is given as an array of characters s.

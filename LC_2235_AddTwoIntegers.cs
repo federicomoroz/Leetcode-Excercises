@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 /*    LEETCODE -- 2235 -- Add Two Integers by Federico Moroz
       Contact = fedegfs@gmail.com
       https://leetcode.com/problems/add-two-integers/
